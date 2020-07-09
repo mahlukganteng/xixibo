@@ -70,8 +70,9 @@ return $a;
 }
 
 echo "=========================\n";
-echo "Borong Barang Slash\n";
-echo "Created by @ikballnh\n";
+echo "Borong Barang Gass Poll\n";
+echo "Pantang Tidur Sebelum Cuan\n";
+echo "       MAZ - JAVA          \n";
 echo "=========================\n";
 echo "Masukan ID: ";
 $id = trim(fgets(STDIN));
