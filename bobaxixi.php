@@ -48,7 +48,7 @@ echo color("red","                 Gunakan Format 62\n");
         echo color("white","+] Your access token : ".$token."\n\n");
         save("token.txt",$token); 
         echo color("green","\n▬▬▬▬▬▬▬▬▬▬▬▬ OK SIP ▬▬▬▬▬▬▬▬▬▬▬▬");
-        echo "\n".color("white","Crott A..");
+        echo "\n".color("white","Voucher A..");
         echo "\n".color("white"," Please wait");
         for($a=1;$a<=3;$a++){
         echo color("white",".");
@@ -62,7 +62,7 @@ echo color("red","                 Gunakan Format 62\n");
         }else{
         echo "\n".color("white"," Message: ".$message);
 	gocar:
-        echo "\n".color("white"," Croot B.. ");
+        echo "\n".color("white"," Voucher B.. ");
         echo "\n".color("white"," Please wait");
         for($a=1;$a<=3;$a++){
         echo color("white",".");
@@ -76,7 +76,7 @@ echo color("red","                 Gunakan Format 62\n");
         }else{
         echo "\n".color("white"," Message: ".$message);
         gofood:
-        echo "\n".color("white"," Croot C..");
+        echo "\n".color("white"," Voucher C..");
         echo "\n".color("white"," Please wait");
         for($a=1;$a<=3;$a++){
         echo color("white",".");
